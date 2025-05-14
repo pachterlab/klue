@@ -1,6 +1,6 @@
 # klue
 
-**klue** is a C++ program for pseudoassembly with k-mers. The program uses the [Bifrost](https://github.com/pmelsted/Bifrost) colored de Bruijn graph for indexing. For details on the method and its applications, see the preprint describing klue: [Pseudoassembly of k-mers](https://doi.org/10.1101/2025.05.11.653354) by Delaney Sullivan, Mayuko Boffelli, and Lior Pachter.
+**klue** is a C++ program for pseudoassembly with k-mers. The program uses the [Bifrost](https://github.com/pmelsted/Bifrost) colored de Bruijn graph for indexing. For details on the method and its applications, see the preprint describing the klue program: [Pseudoassembly of k-mers](https://doi.org/10.1101/2025.05.11.653354) by Delaney K Sullivan, Mayuko Boffelli, and Lior Pachter.
 
 ## Prerequisites
 
