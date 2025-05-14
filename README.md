@@ -23,7 +23,7 @@ mkdir build
 cd build
 cmake ..
 make -j
-sudo make install
+sudo make install```
 
 ## Usage
 
@@ -39,4 +39,4 @@ Where <CMD> can be one of:
     distinguish   Extracts distinguishing contigs from FASTA/FASTQ files 
     refine        Refine contigs based on certain criteria
     version       Prints version information
-    cite          Prints citation information
+    cite          Prints citation information```
