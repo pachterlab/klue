@@ -24,3 +24,19 @@ cd build
 cmake ..
 make -j
 sudo make install
+
+## Usage
+
+After installation, run `klue` from the command line:
+
+```bash
+klue 0.29.0
+
+Usage: klue <CMD> [arguments] ..
+
+Where <CMD> can be one of:
+
+    distinguish   Extracts distinguishing contigs from FASTA/FASTQ files 
+    refine        Refine contigs based on certain criteria
+    version       Prints version information
+    cite          Prints citation information
